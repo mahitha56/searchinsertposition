@@ -13,9 +13,6 @@ Indices must be integers
 // gives integer ✅
 
 
-
-
-
 hlo
 hii
 how are you
