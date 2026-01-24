@@ -16,9 +16,6 @@ Indices must be integers
 
 
 
-
-
-
 hlo
 hii
 how are you
